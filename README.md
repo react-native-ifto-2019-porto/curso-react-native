@@ -1,5 +1,16 @@
-# curso-react-native
-Curso de React Native, estamos elaborando um desenho do curso que seja simples, prático e objetivo.
+# PROJETO DO CURSO DE EXTENSÃO (React-Navite).
+
+<h3>1. IDENTIFICAÇÃO DO CURSO</h3>
+<p>
+<b>1.1 Título:</b> React Native<br>
+<b>1.2 Unidades do IFTO Envolvidas: </b>Porto Nacional<br>
+<b>1.3 Período de Realização(mm/aa): </b>01 / 2019 a 06 / 2019<br>
+<b>1.4 Local de Execução: </b>IFTO campus Porto Nacional<br>
+<b>1.5 Carga Horária Total do Curso:</b> 160 horas
+</p>
+
+<p>
+</p>
 
 ## Apresentação (descreva a proposta de forma clara e precisa):
 <p>
@@ -15,6 +26,14 @@ O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces
 $ docker run --name my-mongo -d mongo
 $ docker run --name my-parse-server --link my-mongo:mongo -d parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://mongo/test
 </code></pre>
+
+<br><br>
+
+<pre><code>$ npm install -g parse-server mongodb-runner
+$ mongodb-runner start
+$ parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://localhost/test
+</code></pre>
+<p><em><strong>Note:</strong></em> <em>If installation with</em> <code>-g</code> <em>fails due to permission problems</em> (<code>npm ERR! code 'EACCES'</code>), <em>please refer to <a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions" rel="nofollow">this link</a>.</em></p>
 
 ## Objetivos (Descrever os objetivos gerais e específicos):
 <p>
