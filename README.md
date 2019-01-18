@@ -22,7 +22,7 @@ O curso pretende propor aos alunos o aprendizado das tecnologias emergentes mais
 O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas e orientadas a dados, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
 </p>
 
-<pre><code>$ docker build --tag parse-server .
+<!-- <pre><code>$ docker build --tag parse-server .
 $ docker run --name my-mongo -d mongo
 $ docker run --name my-parse-server --link my-mongo:mongo -d parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://mongo/test
 </code></pre>
@@ -33,7 +33,7 @@ $ docker run --name my-parse-server --link my-mongo:mongo -d parse-server --appI
 $ mongodb-runner start
 $ parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://localhost/test
 </code></pre>
-<p><em><strong>Note:</strong></em> <em>If installation with</em> <code>-g</code> <em>fails due to permission problems</em> (<code>npm ERR! code 'EACCES'</code>), <em>please refer to <a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions" rel="nofollow">this link</a>.</em></p>
+<p><em><strong>Note:</strong></em> <em>If installation with</em> <code>-g</code> <em>fails due to permission problems</em> (<code>npm ERR! code 'EACCES'</code>), <em>please refer to <a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions" rel="nofollow">this link</a>.</em></p> -->
 
 ## Objetivos (Descrever os objetivos gerais e específicos):
 <p>
