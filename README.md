@@ -46,7 +46,7 @@ O objetivo deste curso é equipá-lo com as habilidades e experiência que um pr
 </ul>
 </p>
 
-## Metodologia (Forma que será realizado o curso, especificando os métodos, técnicas, instrumentos, recursos ações e etc.):
+### Metodologia (Forma que será realizado o curso, especificando os métodos, técnicas, instrumentos, recursos ações e etc.):
 <p>
     A aula será ministrada de maneira expositiva, interativa e principalmente por momentos prático. Com resolução de exercícios de fixação individual e em grupo. Utilizar técnicas de Engenharia de Software e usufruir de boas práticas no desenvolvimento de app.
 <br>
@@ -60,7 +60,7 @@ O objetivo deste curso é equipá-lo com as habilidades e experiência que um pr
 </ul>
 </p>
 
-## Resultados esperados (Informe e/ou quantifique os benefícios esperados)
+<h4> Resultados esperados (Informe e/ou quantifique os benefícios esperados)</h4>
 <p>
 Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca React Native para desenvolvimento de aplicativo móveis, tornando-os profissionais mais bem preparado para mercado de trabalho.
 </p>
