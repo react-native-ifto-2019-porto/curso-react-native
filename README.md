@@ -14,12 +14,12 @@
 
 ## Apresentação (descreva a proposta de forma clara e precisa):
 <p>
-O curso pretende propor aos alunos o aprendizado das tecnologias emergentes mais atuantes e promissoras no cenário do mercado atual, com foco no desenvolvimento de aplicações mobile com <i>JavaScript</i> assim como os frameworks e bibliotecas necessárias para atingir essa finalidade, neste caso serão estudadas as seguintes bibliotecas e frameworks: <b> React Native, Babel, Web-package, JSON, JSX, Yarn, nodejs, npm e eoutros.</b>
+O curso pretende propor aos alunos o aprendizado das tecnologias emergentes mais atuantes e promissoras no cenário do mercado atual, com foco no desenvolvimento de aplicações mobile com <i>JavaScript</i> assim como os frameworks e bibliotecas necessárias para atingir essa finalidade, neste caso serão estudadas as seguintes bibliotecas e frameworks: <b><em> React Native, Babel, Web-package, JSON, JSX, Yarn, nodejs, npm e eoutros.</em> </b>
 </p>
 
 ## Justificativa (Justifique a relevância da realização do curos):
 <p>
-O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas e orientadas a dados, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
+O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
 </p>
 
 <!-- <pre><code>$ docker build --tag parse-server .
@@ -46,6 +46,21 @@ O objetivo deste curso é equipá-lo com as habilidades e experiência que um pr
 </ul>
 </p>
 
-## Metodologia (Forma que será realizado o curso, especificando os métodos, técnicas, instrumentos, recursos ações e etc.):
+### Metodologia (Forma que será realizado o curso, especificando os métodos, técnicas, instrumentos, recursos ações e etc.):
+<p>
+    A aula será ministrada de maneira expositiva, interativa e principalmente por momentos prático. Com resolução de exercícios de fixação individual e em grupo. Utilizar técnicas de Engenharia de Software e usufruir de boas práticas no desenvolvimento de app.
+<br>
+<em><strong>Recusos didáticos:</strong></em>
+<ul>
+    <li><em>Quadro branco</em></li>
+    <li><em>Pincel</em></li>
+    <li><em>Datashow</em></li>
+    <li><em>Apagador</em></li>
+    <li><em>Laboratório de Informático</em></li>
+</ul>
+</p>
 
-## Resultados esperados (Informe e/ou quantifique os benefícios esperados)
+<h4> Resultados esperados (Informe e/ou quantifique os benefícios esperados)</h4>
+<p>
+Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca React Native para desenvolvimento de aplicativo móveis, tornando-os profissionais mais bem preparado para mercado de trabalho.
+</p>
