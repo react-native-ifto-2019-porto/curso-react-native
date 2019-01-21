@@ -12,12 +12,12 @@
 <p>
 </p>
 
-## Apresentação (descreva a proposta de forma clara e precisa):
+### Apresentação (descreva a proposta de forma clara e precisa):
 <p>
 O curso pretende propor aos alunos o aprendizado das tecnologias emergentes mais atuantes e promissoras no cenário do mercado atual, com foco no desenvolvimento de aplicações mobile com <i>JavaScript</i> assim como os frameworks e bibliotecas necessárias para atingir essa finalidade, neste caso serão estudadas as seguintes bibliotecas e frameworks: <b><em> React Native, Babel, Web-package, JSON, JSX, Yarn, nodejs, npm e eoutros.</em> </b>
 </p>
 
-## Justificativa (Justifique a relevância da realização do curos):
+### Justificativa (Justifique a relevância da realização do curos):
 <p>
 O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
 </p>
@@ -35,7 +35,7 @@ $ parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongo
 </code></pre>
 <p><em><strong>Note:</strong></em> <em>If installation with</em> <code>-g</code> <em>fails due to permission problems</em> (<code>npm ERR! code 'EACCES'</code>), <em>please refer to <a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions" rel="nofollow">this link</a>.</em></p> -->
 
-## Objetivos (Descrever os objetivos gerais e específicos):
+### Objetivos (Descrever os objetivos gerais e específicos):
 <p>
 O objetivo deste curso é equipá-lo com as habilidades e experiência que um profissional precisa para se tornar um desenvolvedor capaz de criar aplicativos móveis com React-Native. <br>
 <ul>
