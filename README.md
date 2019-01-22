@@ -38,12 +38,7 @@ $ parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongo
 ### Objetivos (Descrever os objetivos gerais e específicos):
 <p>
 O objetivo deste curso é equipá-lo com as habilidades e experiência que um profissional precisa para se tornar um desenvolvedor capaz de criar aplicativos móveis com React-Native. <br>
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
+
 </p>
 
 ### Metodologia (Forma que será realizado o curso, especificando os métodos, técnicas, instrumentos, recursos ações e etc.):
