@@ -62,6 +62,19 @@ O objetivo deste curso é equipá-lo com as habilidades e experiência que um pr
 Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca React Native para desenvolvimento de aplicativo móveis, tornando-os profissionais mais bem preparado para mercado de trabalho.
 </p>
 
+### Regras de convivio
+
+<p>
+    Abaixo segue uma lista de exigencias que deveremos seguir durante o convívio em sala de aula.
+</p>
+<ul>
+    <li><b>NÃO</b> <em>é permitido atender ligações durante a aula.</em></li>
+    <li><b>NÃO</b> <em>é permitido converças paralelas durante a explicação do conteúdo.</em></li>
+    <li><b>NÃO</b> <em>é permitido acessar conteúdos inapropriados.</em></li>
+    <li><b>NÃO</b> <em>é permitido fazer trabalhos escolar de qualquer natureza durante ás aulas.</em></li>
+    
+</ul>
+
 ### Conteúdo & Sumário
 <ul>
     <li> <a href="#" target="blank">JavaScript (puro).</a></li>
