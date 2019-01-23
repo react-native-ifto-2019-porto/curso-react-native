@@ -52,10 +52,20 @@ O objetivo deste curso é equipá-lo com as habilidades e experiência que um pr
     <li><em>Datashow</em></li>
     <li><em>Apagador</em></li>
     <li><em>Laboratório de Informático</em></li>
+    <li><em>Issues</em></li>
+    <li><em>Pull request</em></li>
 </ul>
 </p>
 
-<h4> Resultados esperados (Informe e/ou quantifique os benefícios esperados)</h4>
+### Resultados esperados (Informe e/ou quantifique os benefícios esperados)
 <p>
 Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca React Native para desenvolvimento de aplicativo móveis, tornando-os profissionais mais bem preparado para mercado de trabalho.
 </p>
+
+### Conteúdo & Sumário
+<ul>
+    <li> <a href="#" target="blank">JavaScript (puro).</a></li>
+    <li><a href="#" target="blank">JavaScript ES6+ (moderno).</a></li>
+    <li><a href="#" target="blank">Git & GitHub.</a></li>
+    <li><a href="#" target="blank">React Native.</a></li>
+</ul>
