@@ -69,9 +69,10 @@ Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca R
 </p>
 <ul>
     <li><b>NÃO</b> <em>é permitido atender ligações durante a aula.</em></li>
-    <li><b>NÃO</b> <em>é permitido converças paralelas durante a explicação do conteúdo.</em></li>
+    <li><b>NÃO</b> <em>é permitido conversas paralelas durante a explicação do conteúdo.</em></li>
     <li><b>NÃO</b> <em>é permitido acessar conteúdos inapropriados.</em></li>
     <li><b>NÃO</b> <em>é permitido fazer trabalhos escolar de qualquer natureza durante ás aulas.</em></li>
+    <li><em>As dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma ou curso alunos com mais conhecimento em determinados assuntos que outros. </em></li>
     
 </ul>
 
