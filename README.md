@@ -72,14 +72,14 @@ Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca R
     <li><b>NÃO</b> <em>é permitido conversas paralelas durante a explicação do conteúdo.</em></li>
     <li><b>NÃO</b> <em>é permitido acessar conteúdos inapropriados.</em></li>
     <li><b>NÃO</b> <em>é permitido fazer trabalhos escolar de qualquer natureza durante ás aulas.</em></li>
-    <li><em>As dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma ou curso alunos com mais conhecimento em determinados assuntos que outros. </em></li>
+    <li><em>As dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma alunos com mais conhecimento em determinados assuntos que outros. </em></li>
     
 </ul>
 
 ### Conteúdo & Sumário
 <ul>
-    <li> <a href="#" target="blank">JavaScript (puro).</a></li>
-    <li><a href="#" target="blank">JavaScript ES6+ (moderno).</a></li>
+    <li> <a href="https://github.com/lucaspedronet/cursojavascriptpuro" target="blank">JavaScript (puro).</a></li>
+    <li><a href="https://github.com/lucaspedronet/curso-ecmas6-news-features" target="blank">JavaScript ES6+ (moderno).</a></li>
     <li><a href="#" target="blank">Git & GitHub.</a></li>
-    <li><a href="#" target="blank">React Native.</a></li>
+    <li><a href="https://github.com/react-native-ifto-2019-porto/curso-react-native" target="blank">React Native.</a></li>
 </ul>
