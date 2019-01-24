@@ -67,19 +67,66 @@ Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca R
 <p>
     Abaixo segue uma lista de exigencias que deveremos seguir durante o convívio em sala de aula.
 </p>
-<ul>
+<ol>
     <li><b>NÃO</b> <em>é permitido atender ligações durante a aula.</em></li>
     <li><b>NÃO</b> <em>é permitido conversas paralelas durante a explicação do conteúdo.</em></li>
     <li><b>NÃO</b> <em>é permitido acessar conteúdos inapropriados.</em></li>
     <li><b>NÃO</b> <em>é permitido fazer trabalhos escolar de qualquer natureza durante ás aulas.</em></li>
     <li><em>As dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma alunos com mais conhecimento em determinados assuntos que outros. </em></li>
     
-</ul>
+</ol>
 
-### Conteúdo & Sumário
-<ul>
-    <li> <a href="https://github.com/lucaspedronet/cursojavascriptpuro" target="blank">JavaScript (puro).</a></li>
-    <li><a href="https://github.com/lucaspedronet/curso-ecmas6-news-features" target="blank">JavaScript ES6+ (moderno).</a></li>
-    <li><a href="#" target="blank">Git & GitHub.</a></li>
-    <li><a href="https://github.com/react-native-ifto-2019-porto/curso-react-native" target="blank">React Native.</a></li>
-</ul>
+### Visão geral
+
+<p>
+A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discutidos em cada etapa do curso.
+</p>
+
+<!-- TABELA DOS MODULOS DO CUROS -->
+<table>
+  <thead>
+    <tr>
+    <th align="left">Módulos</th>
+    <th align="left">Descrição</th>
+    </tr>
+  </thead>
+
+<tbody>
+<tr>
+    <td align="left"><a href="https://github.com/lucaspedronet/cursojavascriptpuro" target="blank">JavaScript (puro).</a></td>
+    <td align="left">Sempre que iremos começar a estudar um nova tecnologia nesse caso uma liguagem é altamente recomendado que compreendemos sua essencia assim com o conceito que a define e seus principais avanços, antes de chegarmos aos recursos modernos da linguagem.</td>
+</tr>
+<tr>
+    <td align="left"><a href="#" target="blank">JavaScript ES6+ (moderno).</a></td>
+    <td align="left"><a href="#" target="blank"></a></td>
+</tr>
+<tr>
+    <td align="left"><a href="#" target="blank">Git & GitHub.</a></td>
+    <td align="left"><a href="#" target="blank"></a></td>
+</tr>
+<tr>
+    <td align="left"><a href="#" target="blank">React Native.</a></td>
+    <td align="left"><a href="#" target="blank"></a></td>
+</tr>
+</tbody>
+</table>
+
+<!-- FIM: TABELA DOS MODULOS DO CUROS -->
+
+
+<!-- <blockquote> Testando</blockquote>
+
+<div class="highlight highlight-source-ts"><pre><span class="pl-k">export</span> <span class="pl-k">class</span> <span class="pl-en">AppComponent</span> {
+  disciplinas <span class="pl-k">=</span> [
+    <span class="pl-s"><span class="pl-pds">'</span>Língua Portuguesa<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Arte<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Educação Física<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Matemática<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>História<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Geografia<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Ciências<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Redação<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Língua Estrangeira Moderna - Inglês<span class="pl-pds">'</span></span>,
+    <span class="pl-s"><span class="pl-pds">'</span>Ensino Religioso<span class="pl-pds">'</span></span>
+  ];
+}</pre></div> -->
