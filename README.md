@@ -1,5 +1,8 @@
 # PROJETO DO CURSO DE EXTENSÃO (React-Navite).
 
+<img src="media/logo.png" height="700" width="1000" />
+<br><br>
+
 <h3>1. IDENTIFICAÇÃO DO CURSO</h3>
 <p>
 <b>1.1 Título:</b> React Native<br>
