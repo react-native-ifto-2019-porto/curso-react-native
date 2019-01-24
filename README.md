@@ -98,11 +98,11 @@ A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discu
 </tr>
 <tr>
     <td align="left"><a href="#" target="blank">JavaScript ES6+ (moderno).</a></td>
-    <td align="left"><a href="#" target="blank"></a></td>
+    <td align="left"><p>ECMAScript 2015 sofreu uma mudança significativa melhorando o desenvolvimento e trabalhando melhor os conceitos como paradigmo Orientado Objeto já concebido em outras liguagem como Java e PHP, vários outros recurso que ajudam a tornar o JS uma liguagem ainda mais poderesa.</p></td>
 </tr>
 <tr>
     <td align="left"><a href="#" target="blank">Git & GitHub.</a></td>
-    <td align="left"><a href="#" target="blank"></a></td>
+    <td align="left"><p></p></td>
 </tr>
 <tr>
     <td align="left"><a href="#" target="blank">React Native.</a></td>
