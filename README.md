@@ -117,6 +117,33 @@ A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discu
 <!-- FIM: TABELA DOS MODULOS DO CUROS -->
 
 
+
+
+<!-- <p align="center">
+  <a href="https://www.npmjs.com/package/react-native-elements" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/3fe9da365485ac3fc25dc8b7e7029ddd35a8b904/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d6e61746976652d656c656d656e74732e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/npm/v/react-native-elements.svg?style=flat-square" style="max-width:100%;"></a>
+  
+  <a href="https://www.npmjs.com/package/react-native-elements" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/7ed4299e4be3fe2c07c8dedf6e0a906df89bdb85/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f72656163742d6e61746976652d656c656d656e74732e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/npm/dm/react-native-elements.svg?style=flat-square" style="max-width:100%;"></a>
+  <a href="https://travis-ci.org/react-native-training/react-native-elements" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/c22ac10580573dc35ee31ff5e797c2950db58425/68747470733a2f2f696d672e736869656c64732e696f2f7472617669732f72656163742d6e61746976652d747261696e696e672f72656163742d6e61746976652d656c656d656e74732f6d61737465722e7376673f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/travis/react-native-training/react-native-elements/master.svg?style=flat-square" style="max-width:100%;"></a>
+  <a href="https://reactnativetraining.herokuapp.com/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/b5679a8f5a71407ed61fbff49de12fd1e5776dfb/68747470733a2f2f72656163746e6174697665747261696e696e672e6865726f6b756170702e636f6d2f62616467652e737667" data-canonical-src="https://reactnativetraining.herokuapp.com/badge.svg" style="max-width:100%;"></a>
+</p>
+<p align="center">
+  <a href="#backers">
+  <img src="https://camo.githubusercontent.com/7b168db18f5b1fd1d96d96a3248650e6c701b310/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f72656163742d6e61746976652d656c656d656e74732f6261636b6572732f62616467652e737667" data-canonical-src="https://opencollective.com/react-native-elements/backers/badge.svg" style="max-width:100%;"></a>
+  <a href="#sponsors">
+  <img src="https://camo.githubusercontent.com/64a883311b29e18f73c319d70de723d99b8051bc/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f72656163742d6e61746976652d656c656d656e74732f73706f6e736f72732f62616467652e737667" data-canonical-src="https://opencollective.com/react-native-elements/sponsors/badge.svg" style="max-width:100%;"></a>
+  <a href="https://codecov.io/gh/react-native-training/react-native-elements" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/41ee348410a9f20bbf7b9bdd2f7a31c227a70080/68747470733a2f2f636f6465636f762e696f2f67682f72656163742d6e61746976652d747261696e696e672f72656163742d6e61746976652d656c656d656e74732f636f7665726167652e737667" data-canonical-src="https://codecov.io/gh/react-native-training/react-native-elements/coverage.svg" style="max-width:100%;"></a>
+  <a href="https://github.com/prettier/prettier">
+  <img src="https://camo.githubusercontent.com/15a7396a278f63f68567b89fdf1135c1e07255c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65645f776974682d70726574746965722d6666363962342e737667" data-canonical-src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" style="max-width:100%;"></a>
+  <a href="https://opensource.org/licenses/MIT" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/311762166ef25238116d3cadd22fcb6091edab98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667" data-canonical-src="https://img.shields.io/badge/License-MIT-blue.svg" style="max-width:100%;"></a>
+</p> -->
+
+
 <!-- <blockquote> Testando</blockquote>
 
 <div class="highlight highlight-source-ts"><pre><span class="pl-k">export</span> <span class="pl-k">class</span> <span class="pl-en">AppComponent</span> {
