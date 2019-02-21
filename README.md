@@ -20,23 +20,10 @@
 O curso pretende propor aos alunos o aprendizado das tecnologias emergentes mais atuantes e promissoras no cenário do mercado atual, com foco no desenvolvimento de aplicações mobile com <i>JavaScript</i> assim como os frameworks e bibliotecas necessárias para atingir essa finalidade, neste caso serão estudadas as seguintes bibliotecas e frameworks: <b><em> React Native, Babel, Web-package, JSON, JSX, Yarn, nodejs, npm e eoutros.</em> </b>
 </p>
 
-### Justificativa (Justifique a relevância da realização do curos):
+### Justificativa (Justifique a relevância da realização do curso):
 <p>
-O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
+O React Native é uma poderosa biblioteca JavaScript ideal para criar interfaces de usuário interativas, capaz de criar aplicativos móveis que são executados em dispositivos iOS e Android, usada por algumas das marcas mais bem sucedidas do mundo, incluindo Facebook, Instagram, Netflix, Airbnb, Uber, WIX e muito mais. Sem contar a escasses de curso presenciais de qualidade na área de desenvolvimento, tendo em vista a grande procura do mercado por profissionais qualificados nessa tecnologia.
 </p>
-
-<!-- <pre><code>$ docker build --tag parse-server .
-$ docker run --name my-mongo -d mongo
-$ docker run --name my-parse-server --link my-mongo:mongo -d parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://mongo/test
-</code></pre>
-
-<br><br>
-
-<pre><code>$ npm install -g parse-server mongodb-runner
-$ mongodb-runner start
-$ parse-server --appId APPLICATION_ID --masterKey MASTER_KEY --databaseURI mongodb://localhost/test
-</code></pre>
-<p><em><strong>Note:</strong></em> <em>If installation with</em> <code>-g</code> <em>fails due to permission problems</em> (<code>npm ERR! code 'EACCES'</code>), <em>please refer to <a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions" rel="nofollow">this link</a>.</em></p> -->
 
 ### Objetivos (Descrever os objetivos gerais e específicos):
 <p>
@@ -66,23 +53,20 @@ Que os alunos consiga utilizar de maneira profissional e criativa a biblioteca R
 </p>
 
 ### Regras de convivio
-
 <p>
-    Abaixo segue uma lista de exigencias que deveremos seguir durante o convívio em sala de aula.
+    Abaixo segue uma lista de exigências que deveremos seguir durante o convívio em sala de aula.
 </p>
 <ol>
     <li><b>NÃO</b> <em>é permitido atender ligações durante a aula.</em></li>
     <li><b>NÃO</b> <em>é permitido conversas paralelas durante a explicação do conteúdo.</em></li>
     <li><b>NÃO</b> <em>é permitido acessar conteúdos inapropriados.</em></li>
     <li><b>NÃO</b> <em>é permitido fazer trabalhos escolar de qualquer natureza durante ás aulas.</em></li>
-    <li><em>As dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma alunos com mais conhecimento em determinados assuntos que outros. </em></li>
-    
+    <li><em>Dúvidas fora de contexto <b>não</b> serão esclarecidas, uma vez que isso dificulta o aprendizado e entendimento dos colegas, pois é comum termos em uma mesma turma alunos com mais conhecimento em determinados assuntos que outros. </em></li> 
 </ol>
 
 ### Visão geral
-
 <p>
-A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discutidos em cada etapa do curso.
+A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discutidos em cada módulo do curso.
 </p>
 
 <!-- TABELA DOS MODULOS DO CUROS -->
@@ -93,7 +77,6 @@ A tabela a seguir apresenta uma visão geral dos conceitos apresentados ou discu
     <th align="left">Descrição</th>
     </tr>
   </thead>
-
 <tbody>
 <tr>
     <td align="left"><a href="https://github.com/lucaspedronet/cursojavascriptpuro" target="blank">JavaScript (puro).</a></td>
